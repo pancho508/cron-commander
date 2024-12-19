@@ -1,5 +1,4 @@
-# cron-master
-
+# cron-commander
 A collection of powerful cronjob scripts to automate daily tasks effortlessly. Simplify your life with these time-triggered tools.
 
 ## Features
