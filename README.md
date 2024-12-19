@@ -10,7 +10,7 @@ A collection of powerful cronjob scripts to automate daily tasks effortlessly. S
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cron-master.git
+   git clone https://github.com/Alfredo3232/cron-commander.git
    cd cron-master
 
 # Make the scripts executable:
