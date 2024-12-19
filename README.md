@@ -11,10 +11,10 @@ A collection of powerful cronjob scripts to automate daily tasks effortlessly. S
 1. Clone the repository:
    ```bash
    git clone https://github.com/Alfredo3232/cron-commander.git
-   cd cron-master
+   cd cron-commander
 
 # Make the scripts executable:
-  `chmod +x scripts/*.sh`
+  `chmod +x <NAME>.sh`
 
 # Edit your crontab to schedule the jobs:
 `crontab -e`
